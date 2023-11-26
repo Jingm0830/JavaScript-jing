@@ -5,6 +5,6 @@ for (let i=0; i<5; i++) {
     numbers[i] = prompt('Enter your number: ');
 }
 
-for (let j=4; j>=0; j--) {
-    console.log(numbers[j]);
+for (let a=4; a>=0; a--) {
+    console.log(numbers[a]);
 }
