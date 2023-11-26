@@ -1,4 +1,4 @@
-'user strict'
+'use strict'
 
 const NumOfRolls = parseInt(prompt("How many times do you want to roll?"));
 
