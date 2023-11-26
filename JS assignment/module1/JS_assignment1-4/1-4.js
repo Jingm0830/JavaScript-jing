@@ -1,4 +1,4 @@
-'user strict'
+'use strict'
 
 const name = prompt("Enter your name:")
 function distribution(){
