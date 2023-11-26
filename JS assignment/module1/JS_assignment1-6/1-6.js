@@ -1,4 +1,4 @@
-'user strict'
+'use strict'
 
 const question = confirm("Should I calculate the square root?");
 if(question === true){
