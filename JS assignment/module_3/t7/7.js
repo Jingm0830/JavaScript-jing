@@ -10,5 +10,5 @@ p.addEventListener('mouseover',
 
 p.addEventListener('mouseout',
     function (event){
-        img.src='img/picA.jpg';
+        img.src='img/picA.jpg'
     })

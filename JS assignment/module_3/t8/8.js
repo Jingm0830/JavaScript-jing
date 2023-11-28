@@ -9,6 +9,7 @@ document.querySelector('#start').addEventListener(
             multi: '*',
             div: '/',
         }
+
         const result = document.querySelector('#result');
         let num1 = parseFloat(document.querySelector('#num1').value);
         let num2 = parseFloat(document.querySelector('#num2').value);

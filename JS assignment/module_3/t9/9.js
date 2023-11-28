@@ -10,6 +10,7 @@ document.querySelector('#start').addEventListener(
             { cal_type: '/', method: function(a, b) {return a/b}},
 
         ];
+
         const result = document.querySelector('#result');
         let calculation = document.querySelector('#calculation').value;
         for (let item of calculate) {
